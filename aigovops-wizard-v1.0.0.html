@@ -650,7 +650,7 @@ body {
 <!-- FOOTER -->
 <footer class="site-footer">
   AiGovOps Foundation &mdash;
-  <a href="https://www.aigovopsfoundation.org">www.aigovopsfoundation.org</a>
+  <a href="https://www.aigovops-foundation.com/">www.aigovops-foundation.com</a>
   &mdash; A work of Bob Rapp and Ken Johnston
 </footer>
 
@@ -1408,8 +1408,8 @@ function renderStep7() {
         Each entry's hash is computed as SHA-256(JSON({ts, action, result, prevHash})).<br>
         No data was transmitted to any server during this session.<br><br>
         A work of <strong>Bob Rapp</strong> and <strong>Ken Johnston</strong> —
-        <a href="https://www.aigovopsfoundation.org" style="color:var(--teal);">
-          www.aigovopsfoundation.org
+        <a href="https://www.aigovops-foundation.com/" style="color:var(--teal);">
+          www.aigovops-foundation.com
         </a>
       </div>
     </div>
@@ -1430,7 +1430,7 @@ function exportAuditLog() {
     hostLabel: HOST_INFO[STATE.host].label,
     entryCount: STATE.auditLog.length,
     entries: STATE.auditLog,
-    attribution: 'A work of Bob Rapp and Ken Johnston — www.aigovopsfoundation.org'
+    attribution: 'A work of Bob Rapp and Ken Johnston — www.aigovops-foundation.com'
   };
   const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
   const url = URL.createObjectURL(blob);

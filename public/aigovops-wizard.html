@@ -724,7 +724,7 @@ body {
 <!-- FOOTER -->
 <footer class="site-footer">
   <span id="footerText">AiGovOps Foundation</span> &mdash;
-  <a href="https://www.aigovopsfoundation.org">www.aigovopsfoundation.org</a>
+  <a href="https://www.aigovops-foundation.com/">www.aigovops-foundation.com</a>
   &mdash; <span id="footerAttribution">A work of Bob Rapp and Ken Johnston</span>
 </footer>
 
@@ -3968,8 +3968,8 @@ function renderStep7() {
         <strong>${t('headerTitle')} — ${t('headerSubtitle')}</strong><br>
         ${t('s7FooterNote')}<br><br>
         ${t('s7Attribution')} —
-        <a href="https://www.aigovopsfoundation.org" style="color:var(--teal);">
-          www.aigovopsfoundation.org
+        <a href="https://www.aigovops-foundation.com/" style="color:var(--teal);">
+          www.aigovops-foundation.com
         </a>
       </div>
     </div>
@@ -3990,7 +3990,7 @@ function exportAuditLog() {
     hostLabel: HOST_INFO[STATE.host].label,
     entryCount: STATE.auditLog.length,
     entries: STATE.auditLog,
-    attribution: 'A work of Bob Rapp and Ken Johnston — www.aigovopsfoundation.org'
+    attribution: 'A work of Bob Rapp and Ken Johnston — www.aigovops-foundation.com'
   };
   const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
   const url = URL.createObjectURL(blob);

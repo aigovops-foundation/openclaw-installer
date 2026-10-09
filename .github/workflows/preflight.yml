@@ -100,7 +100,7 @@ jobs:
           echo "" >> $GITHUB_STEP_SUMMARY
           echo "---" >> $GITHUB_STEP_SUMMARY
           echo "*AiGovOps Foundation Framework — Governance as Code*" >> $GITHUB_STEP_SUMMARY
-          echo "*[www.aigovopsfoundation.org](https://www.aigovopsfoundation.org/)*" >> $GITHUB_STEP_SUMMARY
+          echo "*[www.aigovops-foundation.com](https://www.aigovops-foundation.com/)*" >> $GITHUB_STEP_SUMMARY
 
       - name: Check for failures
         if: env.PREFLIGHT_FAIL == 'true'

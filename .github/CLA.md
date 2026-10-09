@@ -58,4 +58,4 @@ For questions about this CLA, contact: legal@aigovopsfoundation.org
 
 **AiGovOps Foundation**
 Ken Johnston & Bob Rapp, Co-Founders
-https://www.aigovopsfoundation.org/
+https://www.aigovops-foundation.com/

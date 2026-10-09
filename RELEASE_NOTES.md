@@ -9,7 +9,7 @@ The inaugural release of the **OpenClaw Guided Install** — a guided macOS/clou
 - **Framework Comparison** — 8 AI governance frameworks (NVIDIA, OpenAI, Anthropic, Google DeepMind, Microsoft, EU AI Act, NIST, ISO 42001) with radar chart, risk matrix, and detailed profiles
 - **Preflight Runner** — Live SSE-streamed system checks in the browser with real-time log output
 - **Immutable Audit Logging** — SHA-256 hash chain with passphrase-protected owner authentication; every prompt, user, timestamp, and result is cryptographically chained
-- **PDF Compliance Export** — Signed PDF report with full hash chain verification, co-founder attribution, and QR code linking to aigovopsfoundation.org
+- **PDF Compliance Export** — Signed PDF report with full hash chain verification, co-founder attribution, and QR code linking to https://www.aigovops-foundation.com/
 - **Standalone HTML Wizard** — Single-file `aigovops-wizard.html` that runs offline with 7 steps, 4 host targets, dark mode, and privacy notice
 - **Shell Script Generation** — Per-host preflight, install, and rollback bash scripts
 - **CI Pipeline** — GitHub Actions workflow runs preflight checks on every PR and posts pass/fail as a commit status
@@ -43,7 +43,7 @@ Express · Vite · React · Tailwind CSS · shadcn/ui · Drizzle ORM · SQLite �
 
 ## Co-Founders
 
-**Bob Rapp** & **Ken Johnston** — [AiGovOps Foundation](https://www.aigovopsfoundation.org/)
+**Bob Rapp** & **Ken Johnston** — [AiGovOps Foundation](https://www.aigovops-foundation.com/)
 
 ---
 

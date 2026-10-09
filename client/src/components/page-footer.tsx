@@ -16,7 +16,7 @@ export function PageFooter({ text, foundationCredit }: PageFooterProps) {
         <p className="text-xs text-muted-foreground/60 mt-1">
           {foundationCredit}{" "}
           <a
-            href="https://www.aigovopsfoundation.org/"
+            href="https://www.aigovops-foundation.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="underline hover:text-primary transition-colors"

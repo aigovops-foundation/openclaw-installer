@@ -1,5 +1,5 @@
 # Homebrew Formula for OpenClaw Guided Install
-# AiGovOps Foundation | https://aigovopsfoundation.org
+# AiGovOps Foundation | https://www.aigovops-foundation.com/
 # License: Apache 2.0 + Commons Clause (non-commercial)
 #
 # Install:  brew tap bobrapp/openclaw && brew install openclaw

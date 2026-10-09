@@ -148,7 +148,7 @@
 ## Scenario 5: Domain / DNS Hijack
 
 ### Indicators
-- aigovopsfoundation.org resolves to an unexpected IP
+- https://www.aigovops-foundation.com/ resolves to an unexpected IP
 - SSL certificate errors when accessing the domain
 - Users report phishing pages on the domain
 - Domain registration transfer notifications

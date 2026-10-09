@@ -12,7 +12,7 @@
 
 A guided, production-hardened installer for **OpenClaw** — the open-source AI agent framework — with a 7-step wizard, 16 host targets, 87 marketplace entries, 15 languages, and cryptographically immutable audit logging.
 
-Built and maintained by the [AiGovOps Foundation](https://www.aigovopsfoundation.org/) as the reference implementation of its Governance-as-Code standard.
+Built and maintained by the [AiGovOps Foundation](https://www.aigovops-foundation.com/) as the reference implementation of its Governance-as-Code standard.
 
 > **© 2024–2026 AiGovOps Foundation — Ken Johnston & Bob Rapp, Co-Founders**
 > Licensed under Apache 2.0 with Commons Clause. Free for non-commercial use.
@@ -229,7 +229,7 @@ Created and maintained by the **AiGovOps Foundation**.
 
 | Name | Role |
 |------|------|
-| [Ken Johnston](https://www.aigovopsfoundation.org/) | Co-Founder, AiGovOps Foundation |
+| [Ken Johnston](https://www.aigovops-foundation.com/) | Co-Founder, AiGovOps Foundation |
 | [Bob Rapp](https://github.com/bobrapp) | Co-Founder, AiGovOps Foundation |
 
 This project implements the AiGovOps Foundation's Governance-as-Code standards:
@@ -238,7 +238,7 @@ This project implements the AiGovOps Foundation's Governance-as-Code standards:
 - **Operational Compliance** — Runtime monitoring and regulatory adherence
 - **Community-Driven Standards** — Open-source governance frameworks
 
-[www.aigovopsfoundation.org](https://www.aigovopsfoundation.org/) · [Buy Us a Coffee](https://buymeacoffee.com/aigovops)
+[www.aigovops-foundation.com](https://www.aigovops-foundation.com/) · [Buy Us a Coffee](https://buymeacoffee.com/aigovops)
 
 ---
 

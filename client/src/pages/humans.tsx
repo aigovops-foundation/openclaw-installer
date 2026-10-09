@@ -134,7 +134,7 @@ export default function Humans() {
             {t.humansMissionText}
           </p>
           <a
-            href="https://www.aigovopsfoundation.org/"
+            href="https://www.aigovops-foundation.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 text-xs text-primary hover:underline"

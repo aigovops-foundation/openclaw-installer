@@ -197,7 +197,7 @@ export function AppSidebar() {
         <div className="space-y-3">
           {/* Buy Us a Coffee CTA */}
           <a
-            href="https://www.aigovopsfoundation.org/"
+            href="https://www.aigovops-foundation.com/"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 px-3 py-2 rounded-lg bg-primary/5 hover:bg-primary/10 border border-primary/10 hover:border-primary/20 transition-all group cursor-pointer"

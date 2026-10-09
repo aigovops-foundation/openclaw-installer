@@ -571,7 +571,7 @@ Verifies the integrity of the entire audit hash chain. Recomputes every hash and
 
 ### `GET /api/audit/export-pdf` 🔒
 
-Exports the full audit log as a branded PDF compliance artifact. The PDF includes the complete SHA-256 hash chain table, AiGovOps Foundation branding, a QR code linking to [aigovopsfoundation.org](https://www.aigovopsfoundation.org/), and digital signature metadata.
+Exports the full audit log as a branded PDF compliance artifact. The PDF includes the complete SHA-256 hash chain table, AiGovOps Foundation branding, a QR code linking to [www.aigovops-foundation.com](https://www.aigovops-foundation.com/), and digital signature metadata.
 
 **Response** — `200 OK`
 

@@ -1,6 +1,6 @@
 # Contributing to OpenClaw Guided Install
 
-Welcome, and thank you for your interest in contributing to **OpenClaw Guided Install by AiGovOps**. This project is maintained by the [AiGovOps Foundation](https://www.aigovopsfoundation.org/) and reflects our commitment to transparent, community-driven governance tooling for AI systems.
+Welcome, and thank you for your interest in contributing to **OpenClaw Guided Install by AiGovOps**. This project is maintained by the [AiGovOps Foundation](https://www.aigovops-foundation.com/) and reflects our commitment to transparent, community-driven governance tooling for AI systems.
 
 Whether you're fixing a bug, adding a language translation, improving documentation, or proposing a new host target — every contribution matters and is reviewed with care.
 
@@ -256,5 +256,5 @@ By contributing to this project, you agree that your contributions will be licen
 
 ---
 
-**AiGovOps Foundation** — [www.aigovopsfoundation.org](https://www.aigovopsfoundation.org/)
+**AiGovOps Foundation** — [www.aigovops-foundation.com](https://www.aigovops-foundation.com/)
 © 2024–2026 Ken Johnston & Bob Rapp, Co-Founders

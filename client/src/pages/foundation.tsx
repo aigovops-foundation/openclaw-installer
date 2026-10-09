@@ -5,7 +5,7 @@ import { ExternalLink, Heart, Shield, Code2, Users, Coffee, DollarSign } from "l
 
 export default function Foundation() {
   const openFoundation = () => {
-    window.open("https://www.aigovopsfoundation.org/", "_blank", "noopener,noreferrer");
+    window.open("https://www.aigovops-foundation.com/", "_blank", "noopener,noreferrer");
   };
 
   const openDonation = (url: string) => {
@@ -152,12 +152,12 @@ export default function Foundation() {
             </div>
             <p className="text-xs text-muted-foreground mt-4">
               <a
-                href="https://www.aigovopsfoundation.org/"
+                href="https://www.aigovops-foundation.com/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
               >
-                www.aigovopsfoundation.org
+                www.aigovops-foundation.com
               </a>
             </p>
           </div>
