@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 // OpenClaw Guided Install — CLI Entry Point
-// AiGovOps Foundation | https://aigovopsfoundation.org
+// AiGovOps Foundation | https://www.aigovops-foundation.com/
 // License: Apache 2.0 + Commons Clause (non-commercial)
 
 import { execSync, spawn } from "child_process";

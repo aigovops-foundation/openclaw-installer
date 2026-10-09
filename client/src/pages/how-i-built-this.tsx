@@ -119,7 +119,7 @@ const timeline: TimelineEntry[] = [
       "Co-founder cards with professional backgrounds",
       "Four core pillars: Governance as Code, AI Technical Debt Elimination, Operational Compliance, Community-Driven Standards",
       "Immutable Logging Standard explanation with field-by-field breakdown",
-      "'Buy Us a Coffee' donation call-to-action linking to www.aigovopsfoundation.org",
+      "'Buy Us a Coffee' donation call-to-action linking to www.aigovops-foundation.com",
     ],
   },
   {
@@ -146,7 +146,7 @@ const timeline: TimelineEntry[] = [
       "The final phase: exportable PDF audit reports as compliance artifacts, a standalone single-HTML wizard app, and this 'How I Built This' narrative.",
     details: [
       "PDF audit report: 'AiGovOps Foundation Framework — April 2026 v1'",
-      "Full SHA-256 hash chain table, QR code to aigovopsfoundation.org, co-founder attribution",
+      "Full SHA-256 hash chain table, QR code to https://www.aigovops-foundation.com/, co-founder attribution",
       "Standalone HTML wizard: self-contained, no server required, walks through all options",
       "Pre-filled suggested values, confirm-each-step flow, test/dry-run before committing",
       "PII and secrets kept hidden in all logs and exports",
@@ -245,12 +245,12 @@ export default function HowIBuiltThis() {
           <p className="text-xs text-muted-foreground mt-3">
             A work of Bob Rapp and Ken Johnston —{" "}
             <a
-              href="https://www.aigovopsfoundation.org/"
+              href="https://www.aigovops-foundation.com/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary hover:underline"
             >
-              www.aigovopsfoundation.org
+              www.aigovops-foundation.com
             </a>
           </p>
         </CardContent>
