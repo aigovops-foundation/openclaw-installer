@@ -23,6 +23,9 @@ concurrency:
   group: e2e-validate-${{ github.ref }}
   cancel-in-progress: true
 
+permissions:
+  contents: read
+
 jobs:
   e2e-validate:
     name: E2E Validate (${{ github.event.inputs.host || 'all' }} hosts)
