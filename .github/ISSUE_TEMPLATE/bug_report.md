@@ -74,4 +74,4 @@ How severe is the impact?
 
 Any other context: relevant log lines, network requests, configuration details, or links to related issues.
 
-> **Security vulnerability?** Please do **not** use this template. Email [security@aigovopsfoundation.org](mailto:security@aigovopsfoundation.org) or use the [Security Vulnerability](?template=security_vulnerability.md) template instead.
+> **Security vulnerability?** Please do **not** use this template. Email [security@aigovops-foundation.com](mailto:security@aigovops-foundation.com) or use the [Security Vulnerability](?template=security_vulnerability.md) template instead.

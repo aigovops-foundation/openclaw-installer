@@ -127,8 +127,8 @@ If you suspect the repository has been compromised:
 
 ## 6. Contact
 
-- **Security incidents:** security@aigovopsfoundation.org
-- **General inquiries:** legal@aigovopsfoundation.org
+- **Security incidents:** security@aigovops-foundation.com
+- **General inquiries:** legal@aigovops-foundation.com
 - **Co-Founders:** Ken Johnston & Bob Rapp
 
 ---

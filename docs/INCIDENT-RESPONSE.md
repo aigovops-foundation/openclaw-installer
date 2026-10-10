@@ -192,7 +192,7 @@
    - [ ] Send a formal cease-and-desist letter (template in legal/templates/)
    - [ ] Include specific references to the LICENSE, NOTICE, and Commons Clause
    - [ ] Set a 14-day deadline for compliance
-   - [ ] CC legal@aigovopsfoundation.org
+   - [ ] CC legal@aigovops-foundation.com
 
 3. **ESCALATION (if not resolved)**
    - [ ] File a DMCA takedown request with the hosting provider
@@ -335,7 +335,7 @@ What happened: <brief description>
 What we've done: <remediation steps taken>
 What you should do: <specific user actions>
 
-If you have questions, contact security@aigovopsfoundation.org
+If you have questions, contact security@aigovops-foundation.com
 
 — AiGovOps Foundation
   Ken Johnston & Bob Rapp, Co-Founders
@@ -347,11 +347,11 @@ If you have questions, contact security@aigovopsfoundation.org
 
 | Role | Contact | Method |
 |------|---------|--------|
-| Co-Founder (Bob) | bob@aigovopsfoundation.org | Email + Signal |
-| Co-Founder (Ken) | ken@aigovopsfoundation.org | Email + Signal |
+| Co-Founder (Bob) | bob@aigovops-foundation.com | Email + Signal |
+| Co-Founder (Ken) | ken@aigovops-foundation.com | Email + Signal |
 | GitHub Support | https://support.github.com | Web portal |
 | Domain Registrar | (document your registrar contact) | Phone preferred |
-| Legal Counsel | legal@aigovopsfoundation.org | Email |
+| Legal Counsel | legal@aigovops-foundation.com | Email |
 
 ---
 

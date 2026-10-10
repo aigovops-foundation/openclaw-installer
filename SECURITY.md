@@ -15,7 +15,7 @@ The OpenClaw Guided Install team takes security seriously. If you discover a sec
 
 ### How to Report
 
-1. **Email:** Send a detailed report to **security@aigovopsfoundation.org**
+1. **Email:** Send a detailed report to **security@aigovops-foundation.com**
 2. **Subject line:** `[SECURITY] openclaw-installer — <brief description>`
 3. **Include:**
    - Description of the vulnerability

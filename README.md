@@ -199,7 +199,7 @@ Key security properties:
 - Helmet security headers (CSP, HSTS, X-Content-Type-Options)
 - Release signing via Sigstore cosign + SLSA provenance
 
-For security vulnerabilities, email **[security@aigovopsfoundation.org](mailto:security@aigovopsfoundation.org)** for critical issues, or use the [Security Vulnerability issue template](.github/ISSUE_TEMPLATE/security_vulnerability.md) for lower-severity findings.
+For security vulnerabilities, email **[security@aigovops-foundation.com](mailto:security@aigovops-foundation.com)** for critical issues, or use the [Security Vulnerability issue template](.github/ISSUE_TEMPLATE/security_vulnerability.md) for lower-severity findings.
 
 ---
 
@@ -219,7 +219,7 @@ Licensed under the **Apache License 2.0 with Commons Clause** — free for non-c
 Commercial use requires written permission from the AiGovOps Foundation.
 
 See [LICENSE](LICENSE) for the full text.
-Commercial licensing inquiries: [legal@aigovopsfoundation.org](mailto:legal@aigovopsfoundation.org)
+Commercial licensing inquiries: [legal@aigovops-foundation.com](mailto:legal@aigovops-foundation.com)
 
 ---
 

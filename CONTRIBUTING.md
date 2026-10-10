@@ -25,7 +25,7 @@ Whether you're fixing a bug, adding a language translation, improving documentat
 
 ## Code of Conduct
 
-This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold it. Violations can be reported to [conduct@aigovopsfoundation.org](mailto:conduct@aigovopsfoundation.org).
+This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md). By participating, you agree to uphold it. Violations can be reported to [conduct@aigovops-foundation.com](mailto:conduct@aigovops-foundation.com).
 
 ---
 
@@ -140,7 +140,7 @@ I have read the CLA and agree to its terms.
 Signed-off-by: Your Name <your-email@example.com>
 ```
 
-Questions about the CLA: [legal@aigovopsfoundation.org](mailto:legal@aigovopsfoundation.org)
+Questions about the CLA: [legal@aigovops-foundation.com](mailto:legal@aigovops-foundation.com)
 
 ---
 
@@ -242,7 +242,7 @@ OpenClaw supports 15 languages. Adding or updating translations is one of the mo
 
 For non-critical security issues, use the **Security Vulnerability** issue template.
 
-For critical vulnerabilities (remote code execution, authentication bypass, credential exposure), please email **[security@aigovopsfoundation.org](mailto:security@aigovopsfoundation.org)** directly rather than opening a public issue. We aim to respond within 48 hours.
+For critical vulnerabilities (remote code execution, authentication bypass, credential exposure), please email **[security@aigovops-foundation.com](mailto:security@aigovops-foundation.com)** directly rather than opening a public issue. We aim to respond within 48 hours.
 
 ---
 
@@ -250,7 +250,7 @@ For critical vulnerabilities (remote code execution, authentication bypass, cred
 
 This project is licensed under the **Apache License 2.0 with Commons Clause** — free for non-commercial use. Commercial use requires written permission from the AiGovOps Foundation.
 
-See [LICENSE](LICENSE) for the full text. For commercial licensing inquiries: [legal@aigovopsfoundation.org](mailto:legal@aigovopsfoundation.org).
+See [LICENSE](LICENSE) for the full text. For commercial licensing inquiries: [legal@aigovops-foundation.com](mailto:legal@aigovops-foundation.com).
 
 By contributing to this project, you agree that your contributions will be licensed under the same terms and subject to the [Contributor License Agreement](.github/CLA.md).
 

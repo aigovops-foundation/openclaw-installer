@@ -52,7 +52,7 @@ I have read the CLA and agree to its terms.
 Signed-off-by: Your Name <your-email@example.com>
 ```
 
-For questions about this CLA, contact: legal@aigovopsfoundation.org
+For questions about this CLA, contact: legal@aigovops-foundation.com
 
 ---
 
