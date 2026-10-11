@@ -35,8 +35,8 @@ We're the AiGovOps Foundation. Our thesis is that AI governance shouldn't be an 
 
 **Links:**
 - GitHub: https://github.com/bobrapp/openclaw-installer
-- Live demo: https://bobrapp.github.io/openclaw-installer/
-- Standalone wizard: https://bobrapp.github.io/openclaw-installer/aigovops-wizard.html
+- Live demo: https://aigovops-foundation.github.io/openclaw-installer/
+- Standalone wizard: https://aigovops-foundation.github.io/openclaw-installer/aigovops-wizard.html
 
 Feedback welcome — especially on the governance model and trust tier system.
 
@@ -130,7 +130,7 @@ Docker: `docker pull bobrapp/openclaw-installer`
 **Entry:**
 
 ```markdown
-- [OpenClaw Guided Install](https://github.com/bobrapp/openclaw-installer) - Guided installer for AI agent frameworks with 7-step wizard, 16 host targets, immutable SHA-256 audit logging, 87-entry marketplace, and production hardening checklist. ([Demo](https://bobrapp.github.io/openclaw-installer/)) `Apache-2.0` `Nodejs`
+- [OpenClaw Guided Install](https://github.com/bobrapp/openclaw-installer) - Guided installer for AI agent frameworks with 7-step wizard, 16 host targets, immutable SHA-256 audit logging, 87-entry marketplace, and production hardening checklist. ([Demo](https://aigovops-foundation.github.io/openclaw-installer/)) `Apache-2.0` `Nodejs`
 ```
 
 ---
@@ -198,14 +198,14 @@ Built by @AiGovOps Foundation (Ken Johnston & Bob Rapp, co-founders).
 Apache 2.0 + Commons Clause. Free for non-commercial use.
 
 Star it, fork it, or just try the standalone wizard:
-https://bobrapp.github.io/openclaw-installer/aigovops-wizard.html
+https://aigovops-foundation.github.io/openclaw-installer/aigovops-wizard.html
 
 ---
 
 ## Launch Checklist
 
 - [ ] Add repo secrets (NPM_TOKEN, DOCKERHUB_USERNAME, DOCKERHUB_TOKEN)
-- [ ] Verify GitHub Pages is live at bobrapp.github.io/openclaw-installer/
+- [ ] Verify GitHub Pages is live at aigovops-foundation.github.io/openclaw-installer/
 - [ ] Post Show HN
 - [ ] Post to r/selfhosted
 - [ ] Post to r/opensource

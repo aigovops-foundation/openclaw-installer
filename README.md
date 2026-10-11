@@ -102,7 +102,7 @@ Installs Node.js 20, nginx, systemd service, and UFW firewall in ~3 minutes.
 |--------|-------------|-----------|
 | ![Wizard](docs/screenshots/wizard.png) | ![Marketplace](docs/screenshots/marketplace.png) | ![Audit](docs/screenshots/audit.png) |
 
-> Screenshots coming soon. See the [live demo](https://bobrapp.github.io/openclaw-installer/) on GitHub Pages.
+> Screenshots coming soon. See the [live demo](https://aigovops-foundation.github.io/openclaw-installer/) on GitHub Pages.
 
 ---
 
