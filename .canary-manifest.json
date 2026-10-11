@@ -5,8 +5,8 @@
     "tool": "openclaw-canary-check"
   },
   "checksums": {
-  "LICENSE": "bd81f7d3d3fcea08591db0c09b83b82e2d5ac63cbdbb61667c30977452482a17",
-  "NOTICE": "0e1cbb108660c5a4fd11d76bb48bea8569921ac9cc0cdeb2773e1b40f6c0d596",
+  "LICENSE": "e0dc4c07cc696f084a504779f2766078e84661297f53518d32f304063164f5df",
+  "NOTICE": "0cdc41cc7e539572cf4d0459ef4b8de22661eb37b99f926bed5bb4b81d7c57f0",
   "GOVERNANCE.md": "85842a11fb2f8ce725b90542e052a1ae1a048aaa9cf14794c355a47c190252a0",
   "CODEOWNERS": "514fbf8e97775972b5f5f4fbb28a0d4914dccff1f13bc276e6873481d0f8606f",
   ".github/workflows/backup.yml": "f2428fbb38158e9d554e228c4f69cffd3405050f797f5d3824ad7cc0cf624086",
@@ -22,7 +22,7 @@
   ".github/workflows/preflight.yml": "afda3d73d3b17b4e2ea2f2e38302af2eac64a4d589068229db8045109daa48ec",
   ".github/workflows/release-signing.yml": "9c1619d5c6e58fb5f15739fc73a79efc23122d1f2667b63321b40420fff38f86",
   ".github/workflows/release.yml": "e071796be94a53b503e58728a77b5130af5fdeb4053397aa724f3c1bcc4ba37a",
-  "package.json": "f44d514f92acc8c9108f0c0b5e382bb1cb923e0007183d752ee2cf0cc29707b3",
+  "package.json": "d4871554b0d21d1efcb823627940b4f6c7d985f04ee54b07a0c758ff538a33c9",
   "server/routes.ts": "ebd9ac46396a395096f6ac961558d56a7de61300b97d469763afd7d073b4993e",
   "shared/schema.ts": "56204c459097d85b69dddece8d937478f95e57726c0b77aeb6327913f84f8987",
   ".github/workflows/canary-check.yml": "eee38b7cef794158c226b21892580e2c7ec0a2f7409e2bc256d46fb034cdeed9",
