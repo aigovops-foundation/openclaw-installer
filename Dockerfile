@@ -18,7 +18,7 @@
 # =============================================================================
 
 # ── Stage 1: Builder ──────────────────────────────────────────────────────────
-FROM node:20-alpine AS builder
+FROM node:22-alpine AS builder
 
 LABEL stage="builder"
 
@@ -63,7 +63,7 @@ RUN sed -i 's/process\.env\.NODE_ENV==="production"?"127\.0\.0\.1":"0\.0\.0\.0"/
 RUN npm ci --omit=dev
 
 # ── Stage 2: Runtime ─────────────────────────────────────────────────────────
-FROM node:20-alpine AS runtime
+FROM node:22-alpine AS runtime
 
 LABEL org.opencontainers.image.title="OpenClaw Guided Install" \
       org.opencontainers.image.description="AI Governance guided installer — AiGovOps Foundation" \
