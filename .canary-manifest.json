@@ -22,7 +22,7 @@
   ".github/workflows/preflight.yml": "ae6413209467e7893fee1cb14d79f0693f1e3b61555e358586423ae54f89e196",
   ".github/workflows/release-signing.yml": "63681bd2b8412528c493abc135ec09a213c620512f6a3778018ea9c830a7cd11",
   ".github/workflows/release.yml": "a369cb733a1420b85e18b275be452cf51e2e4db8d0bec21bed016d5237d67c11",
-  "package.json": "d4871554b0d21d1efcb823627940b4f6c7d985f04ee54b07a0c758ff538a33c9",
+  "package.json": "cde43b8cf770978410c0d1cc815899258c9496fc6a3162c2eca70cc394d6abb4",
   "server/routes.ts": "ebd9ac46396a395096f6ac961558d56a7de61300b97d469763afd7d073b4993e",
   "shared/schema.ts": "56204c459097d85b69dddece8d937478f95e57726c0b77aeb6327913f84f8987",
   ".github/workflows/canary-check.yml": "c57042613abeac3ace1121fae9c0f8ba37c0bfdd9cc189361e03588b3714f1aa",
