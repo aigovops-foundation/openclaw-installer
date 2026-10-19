@@ -17,7 +17,7 @@
   ".github/workflows/deploy-hetzner.yml": "c8dbfde6f2ff0022f88b114d1296c15f0b8268dbb87f4da19ea999585d5c84d1",
   ".github/workflows/deploy-pages.yml": "b6c0605eb3513622515e65846b0ecf840f4013917acae9e578aa12ce26408369",
   ".github/workflows/deploy-validate.yml": "2f7b6f51d6621d59ab033a976e1582d25bc7d0983058e1167d184044dd587601",
-  ".github/workflows/deploy-vultr.yml": "0ddcee19a631318ae7158f01887e7dc654eab0a79f95d002b53944c68a8e8b2c",
+  ".github/workflows/deploy-vultr.yml": "d6369b8c50e53de44f20a724eeaf55d66d33b4ded7499324b01bcd8feab1932f",
   ".github/workflows/e2e-validate.yml": "1f5b88c086d3ab3c8fbe70154b1168c88aaf2b9537166b702c0332492bd965c2",
   ".github/workflows/preflight.yml": "ae6413209467e7893fee1cb14d79f0693f1e3b61555e358586423ae54f89e196",
   ".github/workflows/release-signing.yml": "63681bd2b8412528c493abc135ec09a213c620512f6a3778018ea9c830a7cd11",
