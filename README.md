@@ -2,10 +2,9 @@
 
 [![Version](https://img.shields.io/badge/version-2.4.0-blue.svg)](CHANGELOG.md)
 [![License: Apache 2.0 + Commons Clause](https://img.shields.io/badge/License-Apache%202.0%20%2B%20Commons%20Clause-blue.svg)](LICENSE)
-[![CI](https://github.com/bobrapp/openclaw-installer/actions/workflows/ci.yml/badge.svg)](https://github.com/bobrapp/openclaw-installer/actions/workflows/ci.yml)
-[![CodeQL](https://github.com/bobrapp/openclaw-installer/actions/workflows/codeql.yml/badge.svg)](https://github.com/bobrapp/openclaw-installer/actions/workflows/codeql.yml)
-[![Canary Check](https://github.com/bobrapp/openclaw-installer/actions/workflows/canary-check.yml/badge.svg)](https://github.com/bobrapp/openclaw-installer/actions/workflows/canary-check.yml)
-[![npm version](https://img.shields.io/npm/v/openclaw-installer?color=cb3837&logo=npm)](https://www.npmjs.com/package/openclaw-installer)
+[![CI](https://github.com/aigovops-foundation/openclaw-installer/actions/workflows/ci.yml/badge.svg)](https://github.com/aigovops-foundation/openclaw-installer/actions/workflows/ci.yml)
+[![CodeQL](https://github.com/aigovops-foundation/openclaw-installer/actions/workflows/codeql.yml/badge.svg)](https://github.com/aigovops-foundation/openclaw-installer/actions/workflows/codeql.yml)
+[![Canary Check](https://github.com/aigovops-foundation/openclaw-installer/actions/workflows/canary-check.yml/badge.svg)](https://github.com/aigovops-foundation/openclaw-installer/actions/workflows/canary-check.yml)
 [![Docker Pulls](https://img.shields.io/docker/pulls/bobrapp/openclaw-installer?logo=docker&color=2496ED)](https://hub.docker.com/r/bobrapp/openclaw-installer)
 [![Tests](https://img.shields.io/badge/tests-349%20passing-brightgreen.svg)](tests/)
 [![Languages](https://img.shields.io/badge/i18n-15%20languages-teal.svg)](client/src/locales/)
@@ -64,7 +63,7 @@ Built and maintained by the [AiGovOps Foundation](https://www.aigovops-foundatio
 ### npm (local development)
 
 ```bash
-git clone https://github.com/bobrapp/openclaw-installer.git
+git clone https://github.com/aigovops-foundation/openclaw-installer.git
 cd openclaw-installer
 npm install
 npm run dev
@@ -91,8 +90,8 @@ Installs Node.js 20, nginx, systemd service, and UFW firewall in ~3 minutes.
 
 | Provider | Deploy |
 |----------|--------|
-| **Render** | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/bobrapp/openclaw-installer) |
-| **DigitalOcean** | [Deploy to DigitalOcean App Platform](https://cloud.digitalocean.com/apps/new?repo=https://github.com/bobrapp/openclaw-installer/tree/master) |
+| **Render** | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/aigovops-foundation/openclaw-installer) |
+| **DigitalOcean** | [Deploy to DigitalOcean App Platform](https://cloud.digitalocean.com/apps/new?repo=https://github.com/aigovops-foundation/openclaw-installer/tree/master) |
 
 ---
 

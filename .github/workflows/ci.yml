@@ -16,7 +16,7 @@ permissions:
 jobs:
   build-and-test:
     name: Build & Test
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # Playwright has no chromium build for ubuntu-latest (26.04) yet
     timeout-minutes: 15
 
     steps:
@@ -242,7 +242,7 @@ jobs:
 
   standalone-wizard-smoke:
     name: Wizard Smoke Test (4 Host Targets)
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04  # Playwright has no chromium build for ubuntu-latest (26.04) yet
     timeout-minutes: 10
 
     steps:

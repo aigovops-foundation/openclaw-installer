@@ -32,7 +32,7 @@ To reproduce a release build:
 
 ```bash
 # 1. Clone the exact release tag
-git clone --branch v2.0.1 --depth 1 https://github.com/bobrapp/openclaw-installer.git
+git clone --branch v2.0.1 --depth 1 https://github.com/aigovops-foundation/openclaw-installer.git
 cd openclaw-installer
 
 # 2. Verify the tag signature (when signed tags are implemented)
@@ -68,7 +68,7 @@ Each GitHub Release includes a `CHECKSUMS-v<version>.txt` file containing SHA-25
 
 ```bash
 # Download the checksums file from the release
-curl -LO https://github.com/bobrapp/openclaw-installer/releases/download/v2.0.1/CHECKSUMS-v2.0.1.txt
+curl -LO https://github.com/aigovops-foundation/openclaw-installer/releases/download/v2.0.1/CHECKSUMS-v2.0.1.txt
 
 # Verify against your local build
 sha256sum -c CHECKSUMS-v2.0.1.txt

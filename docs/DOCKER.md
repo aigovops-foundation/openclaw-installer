@@ -19,7 +19,7 @@ License: Apache-2.0 WITH Commons-Clause
 
 ```bash
 # Clone the repo (if you haven't already)
-git clone https://github.com/bobrapp/openclaw-installer.git
+git clone https://github.com/aigovops-foundation/openclaw-installer.git
 cd openclaw-installer
 
 # Create a data directory for SQLite persistence
@@ -241,4 +241,4 @@ docker inspect --format='{{.State.Health.Status}}' openclaw-installer
 
 ---
 
-*AiGovOps Foundation — https://github.com/bobrapp/openclaw-installer*
+*AiGovOps Foundation — https://github.com/aigovops-foundation/openclaw-installer*
