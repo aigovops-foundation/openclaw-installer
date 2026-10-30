@@ -38,7 +38,7 @@ sha256sum openclaw-backup-$(date +%Y%m%d).bundle > CHECKSUMS.txt
 ### Option A: GitHub Mirror (Different Account)
 ```bash
 # Clone as bare repo
-git clone --mirror https://github.com/bobrapp/openclaw-installer.git
+git clone --mirror https://github.com/aigovops-foundation/openclaw-installer.git
 
 # Push to mirror location
 cd openclaw-installer.git
@@ -52,7 +52,7 @@ git push --mirror mirror
 ### Option B: Self-Hosted (Gitea/GitLab)
 ```bash
 # On your Gitea/GitLab server
-git clone --mirror https://github.com/bobrapp/openclaw-installer.git
+git clone --mirror https://github.com/aigovops-foundation/openclaw-installer.git
 # Configure as a mirror repository in the UI
 ```
 
@@ -73,7 +73,7 @@ gpg --symmetric --cipher-algo AES256 openclaw-full.bundle
 # Restore from bundle
 git clone openclaw-backup-20260416.bundle openclaw-installer-restored
 cd openclaw-installer-restored
-git remote set-url origin https://github.com/bobrapp/openclaw-installer.git
+git remote set-url origin https://github.com/aigovops-foundation/openclaw-installer.git
 git fetch origin
 ```
 

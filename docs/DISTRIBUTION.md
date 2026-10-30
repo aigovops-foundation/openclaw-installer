@@ -40,7 +40,7 @@ open http://localhost:5000
 ## From Source
 
 ```bash
-git clone https://github.com/bobrapp/openclaw-installer.git
+git clone https://github.com/aigovops-foundation/openclaw-installer.git
 cd openclaw-installer
 npm install
 npm run build
@@ -90,7 +90,7 @@ npm publish
 2. Copy `Formula/openclaw.rb` into the tap repo
 3. Update the `sha256` hash after each release:
    ```bash
-   curl -sL https://github.com/bobrapp/openclaw-installer/archive/refs/tags/v2.2.0.tar.gz | shasum -a 256
+   curl -sL https://github.com/aigovops-foundation/openclaw-installer/archive/refs/tags/v2.2.0.tar.gz | shasum -a 256
    ```
 4. Commit and push the formula
 

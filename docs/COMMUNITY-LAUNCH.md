@@ -34,7 +34,7 @@ We're the AiGovOps Foundation. Our thesis is that AI governance shouldn't be an 
 - Apache 2.0 + Commons Clause license
 
 **Links:**
-- GitHub: https://github.com/bobrapp/openclaw-installer
+- GitHub: https://github.com/aigovops-foundation/openclaw-installer
 - Live demo: https://aigovops-foundation.github.io/openclaw-installer/
 - Standalone wizard: https://aigovops-foundation.github.io/openclaw-installer/aigovops-wizard.html
 
@@ -66,7 +66,7 @@ Hey r/selfhosted — sharing something we've been building at the AiGovOps Found
 
 **Stack:** Express, React, Tailwind, SQLite (Drizzle ORM). Minimal dependencies, no external services required.
 
-GitHub: https://github.com/bobrapp/openclaw-installer
+GitHub: https://github.com/aigovops-foundation/openclaw-installer
 License: Apache 2.0 + Commons Clause (free for non-commercial use)
 
 Happy to answer questions about the architecture or governance model.
@@ -95,7 +95,7 @@ Hi r/opensource — we're the AiGovOps Foundation (Ken Johnston & Bob Rapp, co-f
 2. The immutable audit log design (SHA-256 hash chain in SQLite)
 3. Whether the Commons Clause addition to Apache 2.0 is the right approach
 
-GitHub: https://github.com/bobrapp/openclaw-installer
+GitHub: https://github.com/aigovops-foundation/openclaw-installer
 
 ---
 
@@ -118,7 +118,7 @@ We built an installer wizard that generates preflight, install, and rollback scr
 
 **The governance angle:** Every install step is logged to an append-only SQLite table with SHA-256 hash chaining. You can export and verify the chain independently. The idea is that deploying AI should have the same audit trail as deploying to production in a regulated industry.
 
-GitHub: https://github.com/bobrapp/openclaw-installer
+GitHub: https://github.com/aigovops-foundation/openclaw-installer
 Docker: `docker pull bobrapp/openclaw-installer`
 
 ---
@@ -130,7 +130,7 @@ Docker: `docker pull bobrapp/openclaw-installer`
 **Entry:**
 
 ```markdown
-- [OpenClaw Guided Install](https://github.com/bobrapp/openclaw-installer) - Guided installer for AI agent frameworks with 7-step wizard, 16 host targets, immutable SHA-256 audit logging, 87-entry marketplace, and production hardening checklist. ([Demo](https://aigovops-foundation.github.io/openclaw-installer/)) `Apache-2.0` `Nodejs`
+- [OpenClaw Guided Install](https://github.com/aigovops-foundation/openclaw-installer) - Guided installer for AI agent frameworks with 7-step wizard, 16 host targets, immutable SHA-256 audit logging, 87-entry marketplace, and production hardening checklist. ([Demo](https://aigovops-foundation.github.io/openclaw-installer/)) `Apache-2.0` `Nodejs`
 ```
 
 ---
@@ -156,7 +156,7 @@ The numbers:
 
 AI governance shouldn't be a compliance checkbox. It should be the way you deploy.
 
-GitHub: https://github.com/bobrapp/openclaw-installer
+GitHub: https://github.com/aigovops-foundation/openclaw-installer
 
 #AIGovernance #OpenSource #DevOps #Cybersecurity #AiGovOps
 
@@ -173,7 +173,7 @@ Every config change → immutable audit log.
 
 AI governance shouldn't be an afterthought. It should be the deployment process.
 
-🔗 https://github.com/bobrapp/openclaw-installer
+🔗 https://github.com/aigovops-foundation/openclaw-installer
 
 **Tweet 2 (details):**
 What's inside:

@@ -31,7 +31,7 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 
 ## How to Report Bugs
 
-1. **Search first.** Check [existing issues](https://github.com/bobrapp/openclaw-installer/issues) to see if the bug has already been reported.
+1. **Search first.** Check [existing issues](https://github.com/aigovops-foundation/openclaw-installer/issues) to see if the bug has already been reported.
 2. **Use the bug report template.** Open a new issue and select **Bug Report** from the template list. Fill in all fields — especially the host target, browser, OS, and Node.js version.
 3. **Be specific.** Include steps to reproduce, expected behavior, actual behavior, and any relevant log output or screenshots.
 4. **Assign severity.** Use the severity field in the template: `critical`, `high`, `medium`, or `low`.
@@ -42,7 +42,7 @@ This project follows the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.
 
 ## How to Suggest Features
 
-1. **Check Discussions first.** Browse [GitHub Discussions](https://github.com/bobrapp/openclaw-installer/discussions) to see if your idea has been raised.
+1. **Check Discussions first.** Browse [GitHub Discussions](https://github.com/aigovops-foundation/openclaw-installer/discussions) to see if your idea has been raised.
 2. **Open a Feature Request issue.** Use the **Feature Request** template. Include a problem statement, proposed solution, and any alternatives you've considered.
 3. **For significant architectural changes,** open a Discussion (RFC) first to gather community input before writing code. See [GOVERNANCE.md](GOVERNANCE.md) for the RFC process.
 
